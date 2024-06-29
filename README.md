@@ -19,7 +19,7 @@ convert it to Mesh and Points cloud - at the code, I explain how to load numpy a
 - **Examples** There are 2 examples in the code first MQ9 (on California) drone and the second DJI mini2 on a field
   1. **Data sources** all the stl files loaded from 'thingiverse.com'<br/>
 https://www.thingiverse.com/<br/> The first example of MQ9 drone the jpg is downloaded from (https://www.dvidshub.net/image/3474102/mq-9-reaper-flies-over-southern-california)
-For the second example of DJI mini2,  I created the jpg so there isn't any problem in this.
+For the second example of DJI mini2,  I created the jpg.
   2. **Running 2 examples at the code** the place at the code that need to be change for each example are:
     * scalar_resize (part 1)
     * path files (part 2)
