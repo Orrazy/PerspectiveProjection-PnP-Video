@@ -17,8 +17,8 @@ convert it to Mesh and Points cloud - at the code, I explain how to load numpy a
 
  2. **Perspective data:** I didn't have the data about the coordinates, angles, or resize scalar. I find a way to find them I call it calculation and I will expand that at *'calculate to find Perspective '* if you get the PnP solved don't substitute those variables <br/> <br/>
 - **Examples** There are 2 examples in the code first MQ9 (on California) drone and the second DJI mini2 on a field
-  1. **Copy rights** all the stl files loaded from 'thingiverse.com'<br/>
-https://www.thingiverse.com/<br/> The first example of MQ9 drone the jpg is downloaded from the web, so I don't know about the copyright...
+  1. **Data sources** all the stl files loaded from 'thingiverse.com'<br/>
+https://www.thingiverse.com/<br/> The first example of MQ9 drone the jpg is downloaded from (https://www.dvidshub.net/image/3474102/mq-9-reaper-flies-over-southern-california)
 For the second example of DJI mini2,  I created the jpg so there isn't any problem in this.
   2. **Running 2 examples at the code** the place at the code that need to be change for each example are:
     * scalar_resize (part 1)
